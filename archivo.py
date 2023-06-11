@@ -1,7 +1,7 @@
 import numpy as np
 import os
 
-#Linea de base
+#Otro experimento con opencv
 
-import matplotlib.pyplot as plt
+import cv2
 
