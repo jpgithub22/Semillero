@@ -5,3 +5,4 @@ import os
 
 import matplotlib.pyplot as plt
 import torch
+print('hello')
